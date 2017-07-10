@@ -1,1 +1,1 @@
-# documentation
+# Sitecore Documentation Assets
